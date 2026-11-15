@@ -23,18 +23,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🛡️ **[FallGuard AI](https://github.com/prxsanna/FallGuard-AI-Based-Fall-Detection-System)** | Real-time AI fall detection system using wearable sensor data and deep learning models. | `Python` `Deep Learning` `Jupyter` |
-| 🧠 **[MCQ Generator](https://github.com/prxsanna/MCQ_GEN)** | Intelligent NLP-based quiz and question generator with automatic distractor generation. | `Python` `Flask` `NLP` `Bootstrap` |
-| 🛠️ **[EZTool](https://github.com/prxsanna/EZTool)** | Full-stack e-commerce web platform for tools and equipment with admin inventory controls. | `PHP` `MySQL` `JavaScript` `Bootstrap` |
-| 🎬 **[Movie Recommender](https://github.com/prxsanna/Movie-Recommendation-System)** | Recommendation engine using collaborative filtering and content similarity algorithms. | `Python` `Machine Learning` `Pandas` |
-| 📊 **[MetricMind](https://github.com/prxsanna/MetricMind)** | Governed conversational BI platform translating natural language into semantic SQL analytics. | `FastAPI` `Next.js` `PostgreSQL` `Cube.dev` |
-
----
-
 ### 🛠️ Skills & Technologies
 
 <div align="center">
