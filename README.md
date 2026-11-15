@@ -57,19 +57,6 @@
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=prxsanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=prxsanna&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prxsanna&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
-
----
-
 <div align="center">
   <sub>Designed with clean simplicity • Connect via <a href="mailto:kadrekarprasannawork@gmail.com">Email</a></sub>
 </div>
